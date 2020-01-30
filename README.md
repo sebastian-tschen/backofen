@@ -1,3 +1,2 @@
-# Backofen - a backend server for the [Ausstecherle](https://sebastian-tschen/ausstecherle) website
-
+# Backofen - a backend server for the [Ausstecherle](https://github.com/sebastian-tschen/ausstecherle) website
 
